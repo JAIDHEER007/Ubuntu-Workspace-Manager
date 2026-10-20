@@ -1,0 +1,8 @@
+{
+  "uuid": "ubuntu-workspace-manager@jaidheer007.github.io",
+  "name": "Ubuntu Workspace Manager",
+  "description": "Move a window to any workspace from the window menu or a shortcut, without switching your view.",
+  "url": "https://github.com/JAIDHEER007/Ubuntu-Workspace-Manager",
+  "settings-schema": "org.gnome.shell.extensions.ubuntu-workspace-manager",
+  "shell-version": ["50"]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.ubuntu-workspace-manager"
+          path="/org/gnome/shell/extensions/ubuntu-workspace-manager/">
+    <key name="show-move-to-workspace-menu" type="as">
+      <default><![CDATA[['<Shift><Alt>space']]]></default>
+      <summary>Open the Move to Workspace menu for the focused window</summary>
+    </key>
+  </schema>
+</schemalist>
